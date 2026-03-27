@@ -1,2 +1,0 @@
-- As of 17th Match 02:29AM, Only q1 and q2 of Lab5 are solved in this repo.
-- q3, q4, task-2-step1, step2, and step3 are still pending
